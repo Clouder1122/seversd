@@ -1,1 +1,1 @@
-# minecraft server on github using docker and git
+# FILE HOSTING PLATFORM ONLY USING FRONTEND FORK TO UPLOAD FILES
